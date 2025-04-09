@@ -17,7 +17,6 @@ const HomeScreen = ({ navigation }) => {
     >
       <View style={styles.container}>
         <Image
-        //   source={require('../assets/birthday-logo.png')}
           style={styles.logo}
           resizeMode="contain"
         />
