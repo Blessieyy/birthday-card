@@ -12,7 +12,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 const HomeScreen = ({ navigation }) => {
   return (
     <ImageBackground 
-    //   source={require('../assets/confetti-bg.png')} 
+    
       style={styles.backgroundImage}
     >
       <View style={styles.container}>
