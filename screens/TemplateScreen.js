@@ -13,25 +13,25 @@ const templates = [
   { 
     id: '1', 
     name: 'Happy Birthday Balloons', 
-    // image: require('../assets/template1.png'),
+    
     colors: ['#FF5A8C', '#9B87F5'],
   },
   { 
     id: '2', 
     name: 'Birthday Cake', 
-    // image: require('../assets/template2.png'),
+    
     colors: ['#7ED957', '#83C5FF'],
   },
   { 
     id: '3', 
     name: 'Confetti Party', 
-    // image: require('../assets/template3.png'),
+    
     colors: ['#FFDE59', '#FF5A8C'],
   },
   { 
     id: '4', 
     name: 'Elegant Flowers', 
-    // image: require('../assets/template4.png'),
+    
     colors: ['#9B87F5', '#83C5FF'],
   },
 ];
